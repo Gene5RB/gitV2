@@ -1,0 +1,34 @@
+body {
+    background-color: #EDF7FF} 
+
+h1 {
+    color: #8A9AF1;
+    font-size: 198px;
+    font-family: 'MuseoModerno', cursive;
+}
+
+h2 {
+    color: #0A2FF1;
+    font-size: 117px;
+    font-family: 'MuseoModerno', cursive;
+    }
+
+h3 {
+    color: #0A2FF1;
+    font-size: 52px;
+    font-family: 'MuseoModerno', cursive;
+}
+        
+p {
+    color: #04146C;
+    font-size: 33px;
+    font-family: 'Asap', sans-serif;
+}
+
+ul {
+    color: #04146C;
+    font-size: 48px;
+    font-family: 'Asap', sans-serif;
+}
+
+      
