@@ -7,8 +7,8 @@ body {
 
 h3{
     color: white;
-    font-size: 66px;
     background-color: black;
+    font-size: 66px;
     height: fit-content;
     margin: 0;
 }
@@ -16,7 +16,7 @@ h3{
 
 
 h2 {
-    color: black;
+    color: white;
     font-size: 197px;
     height: fit-content;
     margin: 0;
@@ -25,7 +25,6 @@ h2 {
 h1{
     color: white;
     font-size: 217px;
-    background-color: black;
     height: fit-content;
     margin: 0;
     padding: 100px;
