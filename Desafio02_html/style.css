@@ -1,0 +1,23 @@
+body {
+    background-color: white} 
+
+        
+.p1 {
+    color: #04146C;
+    font-size: 78px;
+    font-family: 'Poppins', sans-serif, bold;
+    font-weight: 700;
+}
+
+.p2 {
+    color: #04146C;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img1 {
+    width: 30%;
+}
+
+
+      
