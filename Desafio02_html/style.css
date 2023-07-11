@@ -2,31 +2,21 @@ body {
     background-color: white} 
 
         
-.p1 {
-    color: #04146C;
+p {
+    color: #0a2ff1;
     font-size: 78px;
-    font-family: 'Poppins', sans-serif, bold;
-    font-weight: 700;
-}
-
-.p2 {
-    color: #04146C;
-    font-size: 30px;
     font-family: 'Poppins', sans-serif;
-    margin-bottom: 100px;
+    font-weight: lighter;
+
 }
 
-.img1 {
-    width: 80vh;
-    height: 100vh;
-    
-}
+img {
+    width: 100px;
+    vertical-align: middle;
+    margin-left: 30px;
 
-.img2 {
-    width: 130vh;
-    height: 60vh;
-    
-}
+ }
+
 
 
       
