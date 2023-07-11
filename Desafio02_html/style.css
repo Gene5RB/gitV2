@@ -1,10 +1,18 @@
 body {
-    background-color: white} 
+    background-color: white;
+    text-align: center;
+} 
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
         
 p {
     color: #0a2ff1;
-    font-size: 78px;
+    font-size: 32px;
     font-family: 'Poppins', sans-serif;
     font-weight: lighter;
 
@@ -15,6 +23,15 @@ img {
     vertical-align: middle;
     margin-left: 30px;
 
+ }
+
+ div {
+    margin-top: 30px;
+ }
+
+ footer {
+    margin:60px;
+    align-content: center;
  }
 
 
