@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(./Fuentes/Roboto-Light.ttf);
+
+    font-family: "cool";
+    src: url(./Fuentes/coolvetica\ rg.otf);
+}
+
+h1 {
+    color: #0a2ff1;
+    font-size: 120px;
+    margin: 40px;
+    margin-bottom: 70px;
+    font-family:cool;
+
+}
+
+h2 {
+    color: #04146c;
+    font-size: 40px;
+    
+}
+
+#cont01{
+    margin: 30px;
+}
+
+#bt1{
+    background-color: #0a2ff1;
+    font-size: 40px;
+    color: white;
+    border-color:transparent
+}
+
+#bt2{
+    background-color: white;
+    font-size: 40px;
+    color: #04146c;
+    border-color: #04146c
+}
+
+      
