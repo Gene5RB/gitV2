@@ -1,12 +1,25 @@
-body {
-    background-color: white;
-    text-align: center;
-}
-
 *{
     margin: auto;
     padding: auto;
     box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    padding: 1em;
+    align-content:flex-start
+}
+
+div{
+    width: 20%;
+    padding: 1em;
+    display: inline-flex;
+    background-color: #eff2ff;
+    justify-content: space-evenly;
+    align-self: center;
 }
 
 @font-face {
@@ -27,10 +40,14 @@ h1 {
 }
 
 h2 {
-    color: #04146c;
-    font-size: 40px;
-    
+    color: #0a2ff1;
+    font-size: 120px;
+    margin: 40px;
+    margin-bottom: 70px;
+    font-family:cool;
+ 
 }
+
 
 #cont01{
     margin: 30px;
