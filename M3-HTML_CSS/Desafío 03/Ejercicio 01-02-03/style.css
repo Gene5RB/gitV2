@@ -7,6 +7,7 @@
 header{
     
     width: 100%;
+    border-top: 20px solid #0a2ff1;
 
 
 }
@@ -33,15 +34,28 @@ input{
     padding: 10px;
 }
 
+footer{
+    height: 80px;
+    background-color: #0a2ff1;
+    margin: 0;
+}
+
 textarea{
     width: 500px;
     height: 100px;
+}
+
+ul{
+
+    margin-top: 10px;
+
 }
 
 li{
     display: inline;
     font-size: 23px;
     font-family: 'Roboto', sans-serif;
+    padding: 10px;
     margin-left: 50px;
 }
 
@@ -90,6 +104,11 @@ a:active{
     font-weight: 900;
 }
 
+#en2{
+    text-align: left;
+ 
+}
+
 
 
 #img1{
@@ -99,6 +118,13 @@ a:active{
 
 #img2{
     width: 100%;
+}
+
+#img3{
+    width: 15%;
+    margin-left: 100px;
+    padding: 15px;
+    display: inline;
 }
 
 #bt1{
@@ -149,6 +175,15 @@ a:active{
     font-weight: 400;
     margin-bottom: 15px;
     margin-top: 15px;
+}
+
+#cont2{
+    background-image: url(./Fondos/M5-Desafio3-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 20px;
+    margin-left: 100px;
 }
 
       
